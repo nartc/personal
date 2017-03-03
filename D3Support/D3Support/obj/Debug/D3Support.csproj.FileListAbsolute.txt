@@ -1,0 +1,9 @@
+E:\AP.DOTNET\D3Support\D3Support\bin\Debug\D3Support.exe.config
+E:\AP.DOTNET\D3Support\D3Support\bin\Debug\D3Support.exe
+E:\AP.DOTNET\D3Support\D3Support\bin\Debug\D3Support.pdb
+E:\AP.DOTNET\D3Support\D3Support\obj\Debug\D3Support.csprojResolveAssemblyReference.cache
+E:\AP.DOTNET\D3Support\D3Support\obj\Debug\D3Support.MainForm.resources
+E:\AP.DOTNET\D3Support\D3Support\obj\Debug\D3Support.Properties.Resources.resources
+E:\AP.DOTNET\D3Support\D3Support\obj\Debug\D3Support.csproj.GenerateResource.Cache
+E:\AP.DOTNET\D3Support\D3Support\obj\Debug\D3Support.exe
+E:\AP.DOTNET\D3Support\D3Support\obj\Debug\D3Support.pdb

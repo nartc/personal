@@ -1,0 +1,36 @@
+﻿TÍNH NĂNG CƠ BẢN:
+AUTO CLICK chuột trái phải như các auto khác
+Spam skill đc gán phím số 1 2 3 4 với tốc độ cao, tin chắc hơn các tool khác.
+Chỉ gửi lệnh vào D3 nên ko ảnh hưởng tới các phần mềm khác.
+Khi cửa sổ D3 ko active thì vẫn gửi nên tiện vừa chơi vừa chat, hữu ích với DH Sentry
+Khi chat ko bị ảnh hưởng, chat thoải mái.
+
+YÊU CẦU ĐỂ CHẠY ĐC TOOL
+WINDOW OS
+ĐỐI VỚI WINDOW XP, nếu ko chạy được auto thì cài thêm cái này (DOTNET 2.0)
+http://www.microsoft.com/en-us/download/details.aspx?id=1639
+
+Tắt bật tính năng:
+F1 lần đầu sẽ bật auto click chuột trái. F1 lần nữa để tắt.
+
+F2 là skill, mặc định gán các phím số 1 2 3 4, bác nào set phím khác chú ý thay lại cho đúng.
+
+F3 là chuột phải
+
+Ý nghĩa 3 ô nhỏ ở phần click chuột, thứ tự trừ trái qua phải.
+Ô thứ nhất là S
+ô thứ hai là 1/10s
+ô thứ 3 là 1/100s
+
+NGHĨA LÀ:
+
+Nếu ô số 3 có giá trị là 1 thì 1s sẽ click chuột 100 phát.
+nếu ô số 3 có giá trị là 2 thì 1s sẽ click chuột 50 phát
+nếu ô số 3 có giá trị là 5 thì 1s sẽ click chuột 20 phát
+
+nếu ô số 2 có giá trị là 1 thì 1s sẽ click chuột 10 phát
+nếu ô số 2 có giá trị là 5 thì 1s sẽ click chuột 2 phát
+
+nếu ô số 1 có giá trị là 1 thì 1s sẽ click chuột 1 phát
+nếu ô số 1 có giá trị là 2 thì 1s sẽ click chuột 2 phát
+

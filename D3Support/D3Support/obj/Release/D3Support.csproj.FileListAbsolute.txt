@@ -1,0 +1,8 @@
+E:\AP.DOTNET\D3Support\D3Support\bin\Release\D3Support.exe.config
+E:\AP.DOTNET\D3Support\D3Support\bin\Release\D3Support.exe
+E:\AP.DOTNET\D3Support\D3Support\bin\Release\D3Support.pdb
+E:\AP.DOTNET\D3Support\D3Support\obj\Release\D3Support.MainForm.resources
+E:\AP.DOTNET\D3Support\D3Support\obj\Release\D3Support.Properties.Resources.resources
+E:\AP.DOTNET\D3Support\D3Support\obj\Release\D3Support.csproj.GenerateResource.Cache
+E:\AP.DOTNET\D3Support\D3Support\obj\Release\D3Support.exe
+E:\AP.DOTNET\D3Support\D3Support\obj\Release\D3Support.pdb
